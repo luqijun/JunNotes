@@ -1,0 +1,1 @@
+1. 在PyCharm中，您可以使用Ctrl+F12快捷键来查看当前鼠标所在的函数。您也可以使用View > Quick Definition快捷键来查看当前鼠标所在的函数。另外，您还可以使用View > Parameter Info快捷键来查看当前函数的参数信息。
