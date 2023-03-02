@@ -1,0 +1,14 @@
+Pip===>
+
+查看：  pip list
+安装： pip install datasets --proxy=http://127.0.0.1:10809
+更新： pip install datasets --upgrade --proxy=http://127.0.0.1:10809
+
+Conda===>
+
+查看：  conda list
+安装： conda install pandas
+更新：  conda update pandas
+更新所有库：  conda update --all
+更新Conda：  conda update conda
+更新Anaconda: conda update anaconda
