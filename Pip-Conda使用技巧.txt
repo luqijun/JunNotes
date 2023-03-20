@@ -21,3 +21,7 @@ Conda===>
 更新Anaconda: conda update anaconda
 
 卸载：conda uninstall --force numpy, scipy 或者  conda remove --force numpy, scipy
+
+
+其他===>
+setup.py安装：1. python setup.py build 2.python setup.py install
