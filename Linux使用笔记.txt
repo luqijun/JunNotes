@@ -1,0 +1,35 @@
+WSL图形化界面：
+1.方法1-使用VcXsrv工具
+启动startxfce4: sudo -u root startxfce4    (错误：xfce4-panel: Failed to connect to session manager: Failed to connect to the session manager:)
+2.方法2-使用windows自带远程登录（很卡）
+需要启动xrdp服务（sudo /etc/init.d/xrdp start）才能登录 ，修改配置文件（/etc/xrdp/xrdp.ini   /etc/xrdp/startwm.sh）,创建 “echo  xfce4-session > ~/.xsession”文件。
+
+查看IP地址： ip a
+
+
+代理：
+1.添加代理
+#!/bin/bash
+host_ip=$(cat /etc/resolv.conf |grep "nameserver" |cut -f 2 -d " ")
+export ALL_PROXY="http://$host_ip:7890"
+
+或
+export https_proxy=http://172.18.160.1:10809 http_proxy=http://172.18.160.1:10809 all_proxy=http://172.18.160.1:10809
+或
+export all_proxy=socks5://172.18.160.1:10808
+注意：设置了all_proxy时 curl可以获取数据 但可能会导致Chrome浏览器无法联网。。。。。。
+
+2.删除代理
+#!/bin/bash
+host_ip=$(cat /etc/resolv.conf |grep "nameserver" |cut -f 2 -d " ")
+export -n ALL_PROXY
+或
+export all_proxy=""
+
+
+关闭防火墙：
+sudo ufw disable
+
+
+查看网络连接：
+使用curl www.google.com（不要使用ping）
