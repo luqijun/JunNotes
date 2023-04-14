@@ -14,10 +14,10 @@ host_ip=$(cat /etc/resolv.conf |grep "nameserver" |cut -f 2 -d " ")
 export ALL_PROXY="http://$host_ip:7890"
 
 或
-export https_proxy=http://172.18.160.1:10809 http_proxy=http://172.18.160.1:10809 all_proxy=http://172.18.160.1:10809
+export https_proxy=http://172.18.160.1:10809 http_proxy=http://172.18.160.1:10809 all_proxy=http://172.18.160.1:10809 （本机IPv4地址）
 或
 export all_proxy=socks5://172.18.160.1:10808
-注意：设置了all_proxy时 curl可以获取数据 但可能会导致Chrome浏览器无法联网。。。。。。
+注意：设置了all_proxy时 curl可以获取数据 但可能会导致Chrome浏览器无法联网。。。。。。若已经在bash中设置过代理，则使用docker时不需要设置代理了。
 
 2.删除代理
 #!/bin/bash
@@ -33,3 +33,4 @@ sudo ufw disable
 
 查看网络连接：
 使用curl www.google.com（不要使用ping）
+
