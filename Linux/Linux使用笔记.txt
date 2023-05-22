@@ -1,4 +1,22 @@
-WSL图形化界面：
+重点：一定不要在root用户下操作，要新建用户！！！！！
+
+添加用户============================================：
+添加：useradd -s /bin/sh(bash) –d  /home/Jun  Jun
+设置root密码：sudo passwd 
+设置用户密码：sudo passwd Jun
+赋予权限：sudo usermod -aG sudo newuser    /        sudo usermod -aG wheel <用户名>
+为新建的用户设置sudo权限：
+a) 切换至root账户，为sudo文件增加写权限，默认是读权限
+chmod u+w /etc/sudoers
+b) 打开文件vim /etc/suduers，在root ALL=(ALL) ALL这一行下面添加
+Jun ALL=(ALL) ALL
+c) 再次取消sudo文件的写权限
+chmod u-w /etc/sudoers
+
+基础安装============================================：
+开发者工具包：sudo apt install build-essential
+
+WSL图形化界面============================================：
 1.方法1-使用VcXsrv工具
 启动startxfce4: sudo -u root startxfce4    (错误：xfce4-panel: Failed to connect to session manager: Failed to connect to the session manager:)
 2.方法2-使用windows自带远程登录（很卡）
@@ -7,7 +25,7 @@ WSL图形化界面：
 查看IP地址： ip a
 
 
-代理：
+代理============================================：
 1.添加代理
 #!/bin/bash
 host_ip=$(cat /etc/resolv.conf |grep "nameserver" |cut -f 2 -d " ")
@@ -17,7 +35,8 @@ export ALL_PROXY="http://$host_ip:7890"
 export https_proxy=http://172.18.160.1:10809 http_proxy=http://172.18.160.1:10809 all_proxy=http://172.18.160.1:10809 （本机IPv4地址）
 或
 export all_proxy=socks5://172.18.160.1:10808
-注意：设置了all_proxy时 curl可以获取数据 但可能会导致Chrome浏览器无法联网。。。。。。若已经在bash中设置过代理，则使用docker时不需要设置代理了。
+注意***：设置了all_proxy时 curl可以获取数据 但可能会导致Chrome浏览器无法联网。。。。。。若已经在bash中设置过代理，则使用docker时不需要设置代理了。
+注意***：开启代理后，非root用户使用sudo curl 可能会获取不到数据。。。
 
 2.删除代理
 #!/bin/bash
@@ -32,5 +51,40 @@ sudo ufw disable
 
 
 查看网络连接：
-使用curl www.google.com（不要使用ping）
+使用curl www.google.com（不要使用ping，不要用sudo curl，使用which url查看url位置）
+
+安装Cuda和cuDNN==============================================
+注意***：安装cuda toolkit之后，一定要安装cuDnn才能使用Tensorflow
+ 
+
+Docker使用============================================：
+
+build/run:
+# 下载项目
+git clone https://github.com/binary-husky/chatgpt_academic.git
+cd chatgpt_academic
+# 配置 海外Proxy 和 OpenAI API KEY
+用任意文本编辑器编辑 config.py
+# 安装
+docker build -t gpt-academic .
+# 运行
+docker run --rm -it --net=host gpt-academic （--rm代表不保留Container）
+
+
+修改Docker容器内的配置文件:
+
+1.先运行容器；
+2.docker cp 容器id:容器中文件的路径 本机目的路径
+3.docker cp 本机文件路径 容器id:容器内文件路径
+4.docker restart 容器id
+
+
+权限相关==============================================：
+sudo python找不到命令，需要在/etc/sudoers文件中的secure_path中添加python所在路径目录，然后执行sudo -k 引用
+
+
+
+
+
+
 

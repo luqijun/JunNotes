@@ -1,1 +1,30 @@
-1. 在PyCharm中，您可以使用Ctrl+F12快捷键来查看当前鼠标所在的函数。您也可以使用View > Quick Definition快捷键来查看当前鼠标所在的函数。另外，您还可以使用View > Parameter Info快捷键来查看当前函数的参数信息。
+1.在PyCharm中，您可以使用Ctrl+F12快捷键来查看当前鼠标所在的函数。您也可以使用View > Quick Definition（Alt+f12）快捷键来查看当前鼠标所在的函数。另外，您还可以使用View > Parameter Info快捷键来查看当前函数的参数信息。
+
+2.修改缓存路径：
+cache_path=D:/AppsDevelop/PyCharm 2023.1
+
+#---------------------------------------------------------------------
+# Uncomment this option if you want to customize a path to the settings directory.
+#---------------------------------------------------------------------
+# idea.config.path=${user.home}/.PyCharm/config
+idea.config.path=${cache_path}/.PyCharm/config
+
+#---------------------------------------------------------------------
+# Uncomment this option if you want to customize a path to the caches directory.
+#---------------------------------------------------------------------
+# idea.system.path=${user.home}/.PyCharm/system
+idea.system.path=${cache_path}/.PyCharm/system
+
+#---------------------------------------------------------------------
+# Uncomment this option if you want to customize a path to the user-installed plugins directory.
+#---------------------------------------------------------------------
+# idea.plugins.path=${idea.config.path}/plugins
+idea.plugins.path=${cache_path}/plugins
+
+#---------------------------------------------------------------------
+# Uncomment this option if you want to customize a path to the logs directory.
+#---------------------------------------------------------------------
+# idea.log.path=${idea.system.path}/log
+idea.log.path=${cache_path}/log
+
+

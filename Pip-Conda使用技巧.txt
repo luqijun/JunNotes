@@ -1,14 +1,17 @@
-Pip===>
-
+Pip====================================>
 查看：  pip list
 输出指定包xxx的详细信息:  pip show pandas
 
-安装： pip install datasets --proxy=http://127.0.0.1:10809
+安装： pip install datasets --proxy=http://127.0.0.1:10809        pip install -r requirements.txt 
 更新： pip install datasets --upgrade --proxy=http://127.0.0.1:10809
-升级pip：python.exe -m pip install --upgrade pip
+升级pip：python -m pip install --upgrade pip
 
-Conda===>
+opencv: pip install opencv-python opencv-contrib-python
+Tensorflow：pip install tensorflow
+Pytorch：pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
 
+
+Conda====================================>
 查看：  conda list
 查询指定包xxx：  conda list torch
 帮助：  conda uninstall --help
@@ -16,12 +19,18 @@ Conda===>
 
 安装： conda install pandas
 更新：  conda update pandas
-更新所有库：  conda update --all
 更新Conda：  conda update conda
+更新所有库：  conda update --all
 更新Anaconda: conda update anaconda
 
 卸载：conda uninstall --force numpy, scipy 或者  conda remove --force numpy, scipy
 
+创建环境：conda create -n envname python=3.10.9
+显示环境：conda env list
+激活环境：conda activate envname /   deactivate
+删除环境：conda remove --name <env_name> --all
 
-其他===>
+
+
+其他====================================>
 setup.py安装：1. python setup.py build 2.python setup.py install

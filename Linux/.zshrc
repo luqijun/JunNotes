@@ -117,10 +117,10 @@ unset __conda_setup
 # <<< conda initialize <<<
 
 # custom
-PATH=/root/Software4Develop/anaconda3/bin:$PATH
-source /root/scripts/start_proxy.sh
+PATH=/usr/local/anaconda3/bin:$PATH
+source /home/share/scripts/start_proxy.sh
 
 export PATH="/usr/local/cuda-11.8/bin:$PATH"
 export LD_LIBRARY_PATH="/usr/local/cuda-11.8/lib64:$LD_LIBRARY_PATH"
-export DISPLAY=192.168.0.101:0
+export DISPLAY=192.168.0.101:0  /  0:0
 
