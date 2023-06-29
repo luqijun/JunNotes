@@ -1,0 +1,8 @@
+MySql：========================================================================
+进入mysql: root用户使用sudo mysql， mysql -p
+查看所有数据库：show databases;
+切换数据库：use mysql;
+删除数据库：DROP DATABASE IF EXISTS tsm;
+创建数据库：CREATE DATABASE tsm;
+查看当前数据所有表：show tables;
+查看表结构：DESCRIBE/DESC <表名>

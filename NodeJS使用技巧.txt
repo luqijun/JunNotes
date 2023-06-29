@@ -1,0 +1,15 @@
+Npm：===============================================================================
+生成package.json文件：npm init
+查看 npm 全局安装过的包：npm list -g --depth=0
+安装包：
+    1.npm install webpack-cli --save-dev	//--save-dev表示开发时候依赖的东西，–save-dev 则添加到 package.json 文件 devDependencies 键下
+  2.npm install webpack --save	//--save是开发之后还依赖的东西， –save会把依赖包名称添加到 package.json 文件 dependencies 键下
+卸载：npm uninstall ...
+安装webpack: npm install --save-dev webpack webpack-cli html-webpack-plugin webpack-dev-server webpack-dev-middleware
+
+
+yarn：===============================================================================
+查看 yarn 全局安装过的包：yarn global list --depth=0
+安装包：yarn add sass --save
+卸载包：yarn remove node-sass
+运行服务：yarn serve

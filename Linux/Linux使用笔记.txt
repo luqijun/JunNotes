@@ -14,7 +14,7 @@ c) 再次取消sudo文件的写权限
 chmod u-w /etc/sudoers
 
 基础安装============================================：
-开发者工具包：sudo apt install build-essential
+开发者工具包：sudo apt install build-essential ☆☆☆☆☆☆☆☆☆
 
 WSL图形化界面============================================：
 1.方法1-使用VcXsrv工具
