@@ -13,6 +13,11 @@ Jun ALL=(ALL) ALL
 c) 再次取消sudo文件的写权限
 chmod u-w /etc/sudoers
 
+
+SSH 远程登录============================================：
+登录命令：ssh root@192.168.0.11 或指定端口  ssh -p 12333 root@192.168.0.11
+
+
 基础安装============================================：
 开发者工具包：sudo apt install build-essential ☆☆☆☆☆☆☆☆☆
 
@@ -81,6 +86,9 @@ docker run --rm -it --net=host gpt-academic （--rm代表不保留Container）
 
 权限相关==============================================：
 sudo python找不到命令，需要在/etc/sudoers文件中的secure_path中添加python所在路径目录，然后执行sudo -k 引用
+
+报错处理==============================================：
+替换sh文件中的‘\r’：sed $'s/\r$//' ./install.sh > ./install.Unix.sh
 
 
 
