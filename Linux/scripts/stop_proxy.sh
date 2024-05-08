@@ -1,4 +1,6 @@
 #!/bin/bash
 # host_ip=$(cat /etc/resolv.conf |grep "nameserver" |cut -f 2 -d " ")
-export all_proxy=""
-echo "delete variable all_proxy."
+unset all_proxy
+unset http_proxy
+unset https_proxy
+echo "unset all_proxy http_proxy https_proxy."
