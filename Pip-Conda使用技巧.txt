@@ -39,6 +39,19 @@ Conda========================================================================>
 激活环境：conda activate envname /   deactivate
 删除环境：conda remove --name <env_name> --all
 
+Windows和Linux 对于conda修改镜像源的方法一样
+查看anaconda中已经存在的镜像源:
+conda config --show channels
+
+添加镜像源(永久添加)
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
+
+设置搜索时显示通道地址:
+conda config --set show_channel_urls yes
+若不想按照上述步骤添加镜像，可使用以下命令直接指定安装时使用的镜像地址(以opencv为例)：
+conda install opencv -c https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
 
 
 其他========================================================================>
