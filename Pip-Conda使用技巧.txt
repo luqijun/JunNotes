@@ -1,4 +1,4 @@
-Pip====================================>
+Pip========================================================================>
 查看：  pip list
 输出指定包xxx的详细信息:  pip show pandas
 
@@ -10,8 +10,17 @@ opencv: pip install opencv-python opencv-contrib-python
 Tensorflow：pip install tensorflow
 Pytorch：pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
 
+单独指定安装镜像加快安装:
+pip install opencv -i https://mirrors.aliyun.com/pypi/simple/
+此处列举国内常用pip安装镜像：
+清华：https://pypi.tuna.tsinghua.edu.cn/simple
+阿里云：https://mirrors.aliyun.com/pypi/simple/
+中国科技大学: https://pypi.mirrors.ustc.edu.cn/simple/
+华中理工大学：https://pypi.hustunique.com/
+山东理工大学：https://pypi.sdutlinux.org/
+豆瓣：https://pypi.douban.com/simple/
 
-Conda====================================>
+Conda========================================================================>
 查看：  conda list
 查询指定包xxx：  conda list torch
 帮助：  conda uninstall --help
@@ -32,5 +41,5 @@ Conda====================================>
 
 
 
-其他====================================>
+其他========================================================================>
 setup.py安装：1. python setup.py build 2.python setup.py install
