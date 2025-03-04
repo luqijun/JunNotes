@@ -1,0 +1,9 @@
+serverAddr = "xxx" # 服务器地址
+serverPort = 7000
+
+[[proxies]]
+name = "mstsc_to_3090_p2p"
+type = "xtcp"
+secretKey = "abcdefg"
+localIP = "127.0.0.1"
+localPort = 3389

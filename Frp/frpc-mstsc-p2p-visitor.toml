@@ -1,0 +1,11 @@
+serverAddr = "xxx" # 服务器地址
+serverPort = 7000
+
+[[visitors]]
+name = "mstsc_to_3090_p2p_visitor"
+type = "xtcp"
+# 要访问的 P2P 代理的名称
+serverName = "mstsc_to_3090_p2p"
+secretKey = "abcdefg"
+bindAddr = "127.0.0.1"
+bindPort = 6000
