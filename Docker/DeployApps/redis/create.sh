@@ -1,4 +1,4 @@
-docker run -d \
+docker run -d --restart always \
   --name redis \
   -v ./data:/data \
   -p 6379:6379 \

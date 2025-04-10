@@ -1,4 +1,4 @@
-docker run -d \
+docker run -d --restart always \
   --name mysql \
   -v ./data:/var/lib/mysql \
   -v ./conf.d:/etc/mysql/conf.d \
