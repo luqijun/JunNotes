@@ -1,0 +1,16 @@
+global:
+  scrape_interval: 15s
+scrape_configs:
+  - job_name:       'fastapi'
+
+    # Override the global default and scrape targets from this job every 5 seconds.
+    scrape_interval: 5s
+
+    static_configs:
+      - targets: ['host.docker.internal:8000', 'dance.localhost']
+        labels:
+          group: 'dance'
+
+      # - targets: ['localhost:8082']
+      #   labels:
+      #     group: 'canary'
