@@ -1,14 +1,30 @@
-Pip========================================================================>
+# Pip========================================================================>
 查看：  pip list
-输出指定包xxx的详细信息:  pip show pandas
+输出指定包xxx的详细信息:  pip show torch
 
 安装： pip install datasets --proxy=http://127.0.0.1:10809        pip install -r requirements.txt 
 更新： pip install datasets --upgrade --proxy=http://127.0.0.1:10809
 升级pip：python -m pip install --upgrade pip
 
-opencv: pip install opencv-python opencv-contrib-python
-Tensorflow：pip install tensorflow
-Pytorch：pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
+安装示例：
+
+其他低版本安装参考：https://github.com/fundamentalvision/BEVFormer/blob/master/docs/install.md
+
+Pytorch：尽量使用python3.8+
+pip install torch==1.13.1+cu117 torchvision==0.14.1+cu117 torchaudio==0.13.1 --extra-index-url https://download.pytorch.org/whl/cu117 
+pip install -U xformers==0.0.16
+pip install mmcv==1.6.1 ( numpy== 1.21.6  1.24.4)
+或者
+pip install torch==2.3.0 torchvision==0.18.0 torchaudio==2.3.0 --index-url https://download.pytorch.org/whl/cu118
+pip install -U xformers==v0.0.26.post1 --index-url https://download.pytorch.org/whl/cu118
+build mmcv from source 或者 pip install mmcv==2.2.0
+
+pip install opencv-python opencv-contrib-python
+pip install tqdm h5py scipy scikit-learn
+
+pip install accelerate deepspeed peft scikit-learn modelscope huggingface_hub transformers diffusers datasets tokenizers tiktoken sentencepiece transformers_stream_generator
+pip install httpx pydantic uvicorn fastapi  markdown2[all] numpy  requests ftfy  tabulate ninja qwen_vl_utils shortuuid  bitsandbytes 
+
 
 单独指定安装镜像加快安装:
 pip install opencv -i https://mirrors.aliyun.com/pypi/simple/
@@ -20,7 +36,7 @@ pip install opencv -i https://mirrors.aliyun.com/pypi/simple/
 山东理工大学：https://pypi.sdutlinux.org/
 豆瓣：https://pypi.douban.com/simple/
 
-Conda========================================================================>
+# Conda========================================================================>
 查看：  conda list
 查询指定包xxx：  conda list torch
 帮助：  conda uninstall --help
@@ -54,5 +70,5 @@ conda config --set show_channel_urls yes
 conda install opencv -c https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
 
 
-其他========================================================================>
+# 其他========================================================================>
 setup.py安装：1. python setup.py build 2.python setup.py install
