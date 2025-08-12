@@ -1,0 +1,9 @@
+serverAddr = "xxx"
+serverPort = 7000
+
+[[proxies]]
+name = "ssh_to_3090_wsl"
+type = "tcp"
+localIP = "127.0.0.1"
+localPort = 2222
+remotePort = 2222
