@@ -1,0 +1,29 @@
+<service>
+  <!-- 服务 ID，必须唯一 -->
+  <id>frpc-ollama</id>
+  <!-- 服务显示名称 -->
+  <name>FRPC Ollama</name>
+  <!-- 服务描述 -->
+  <description>FRP Client for Windows Remote Desktop.（这个服务使得本机可以被远程连接）</description>
+
+  <!-- 可执行文件路径（FRP 客户端路径） -->
+  <executable>"D:\Apps\frp_0.61.1_windows_amd64\frpc.exe"</executable>
+  <!-- 启动参数 -->
+  <arguments>-c frpc-ollama.toml</arguments>
+
+  <!-- 工作目录（FRP 客户端配置文件所在目录） -->
+  <workingdirectory>%BASE%</workingdirectory>
+
+  <!-- 日志配置 -->
+  <logpath>%BASE%\logs\frpc-ssh-wsl</logpath>
+  <log mode="roll-by-time">
+    <pattern>yyyyMMdd</pattern>
+  </log>
+  <depend></depend>
+
+  <!-- 启动模式：自动启动 -->
+  <startmode>Automatic</startmode>
+
+  <!-- 失败时重试 -->
+  <onfailure action="restart" delay="10 sec"/>
+</service>
