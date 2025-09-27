@@ -1,0 +1,1 @@
+docker run -d -p 10808:10808 --name v2ray --restart=always -v ./v2ray:/etc/v2ray teddysun/v2ray
