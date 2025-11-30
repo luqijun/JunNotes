@@ -1,0 +1,14 @@
+CompileFlags:
+  Add: [
+    # 1. PyTorch C++ 头文件路径 (请替换为实际路径)
+    "-I/home/numbat/miniconda3/envs/py38/lib/python3.8/site-packages/torch/include",
+    
+    # 2. PyTorch C++ API 路径 (请替换为实际路径)
+    "-I/home/numbat/miniconda3/envs/py38/lib/python3.8/site-packages/torch/include/torch/csrc/api/include",
+
+    # 3. CUDA Toolkit 头文件路径 (请替换为实际路径)
+    "-I/usr/local/cuda/include",
+    
+    # 指定 C++ 标准
+    "-std=c++17" 
+  ]

@@ -1,6 +1,6 @@
 # PyTorch C++/CUDA Extension 示例项目
 
-这是一个完整的示例项目，展示如何使用 `setup.py` 编译 C++ 和 CUDA 文件，并将它们集成到 PyTorch 中。
+这是一个完整的示例项目，展示如何使用 `setup.py` 编译 C++ 和 CUDA 文件，并将它们集成到 PyTorch 中。基础知识以及vscode代码提示可参考博客 [Python使用setup.py](https://blog.csdn.net/qq_36892712/article/details/155403220?spm=1011.2415.3001.5331)。
 
 ## 项目结构
 
