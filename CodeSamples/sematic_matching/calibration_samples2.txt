@@ -1,0 +1,2669 @@
+前
+后
+左前
+右前
+左后
+右后
+前排
+后排
+顶棚
+顶部
+底部
+上
+下
+内
+外
+左
+右
+侧围
+侧合页
+前门
+后门
+铰链
+前盖
+后盖
+车顶
+车底
+前挡风玻璃
+后挡风玻璃
+侧窗玻璃
+发动机缸体
+发动机缸盖
+活塞
+活塞环
+活塞销
+连杆
+曲轴
+凸轮轴
+气门
+气门弹簧
+气门油封
+挺柱
+推杆
+摇臂
+正时皮带
+正时链条
+张紧轮
+飞轮
+离合器片
+压盘
+离合器总泵
+离合器分泵
+变速器壳体
+输入轴
+输出轴
+齿轮
+同步器
+拨叉
+传动轴
+万向节
+十字轴
+滑动花键
+主减速器
+差速器
+半轴
+轮毂
+轴承
+油封
+散热器
+水泵
+节温器
+风扇
+风扇离合器
+中冷器
+进气管
+进气歧管
+节气门
+空气滤清器
+涡轮增压器
+机械增压器
+排气歧管
+三元催化器
+消声器
+排气管
+氧传感器
+燃油箱
+燃油泵
+燃油滤清器
+喷油嘴
+高压油管
+共轨管
+火花塞
+点火线圈
+分电器
+起动机
+发电机
+电压调节器
+蓄电池
+线束
+保险丝盒
+继电器
+ECU
+曲轴位置传感器
+凸轮轴位置传感器
+爆震传感器
+水温传感器
+油温传感器
+压力传感器
+流量传感器
+油门踏板
+制动踏板
+转向盘
+转向柱
+转向机
+转向助力泵
+转向拉杆
+转向节
+前桥
+后桥
+车架
+纵梁
+横梁
+悬架弹簧
+钢板弹簧
+螺旋弹簧
+减震器
+上控制臂
+下控制臂
+推力杆
+稳定杆
+衬套
+球头
+制动盘
+制动鼓
+制动蹄
+制动钳
+刹车片
+制动总泵
+制动分泵
+ABS泵
+手刹拉线
+车门
+车窗
+玻璃升降器
+门锁
+门把手
+后视镜
+雨刮器
+雨刮电机
+座椅
+座椅滑轨
+安全带
+安全气囊
+仪表盘
+中控台
+空调压缩机
+冷凝器
+蒸发器
+膨胀阀
+鼓风机
+暖风水箱
+车身面板
+引擎盖
+后备箱盖
+保险杠
+防撞梁
+翼子板
+车顶
+A柱
+B柱
+C柱
+门槛梁
+油箱盖
+大灯总成
+尾灯总成
+雾灯
+转向灯
+倒车灯
+刹车灯
+示宽灯
+日间行车灯
+喇叭
+天线
+导航仪
+显示屏
+音响主机
+扬声器
+倒车雷达
+倒车影像
+盲点监测传感器
+车道保持摄像头
+自适应巡航雷达
+自动泊车传感器
+激光雷达
+毫米波雷达
+胎压监测传感器
+电池包
+电池模组
+电芯
+BMS
+逆变器
+DC-DC转换器
+车载充电机
+高压线束
+快充接口
+驱动电机
+电机控制器
+旋转变压器
+减速器总成
+电子驻车电机
+电子手刹开关
+一键启动按钮
+无钥匙进入模块
+电动尾门撑杆
+电动座椅电机
+座椅加热垫
+座椅通风风扇
+方向盘加热丝
+HUD抬头显示
+全景天窗
+天窗电机
+天窗导轨
+遮阳帘
+儿童安全锁
+ISOFIX接口
+发动机护板
+底盘护板
+电池护板
+电机护板
+电控护板
+冷却液壶
+玻璃水壶
+机油尺
+机油滤芯
+空气滤芯
+空调滤芯
+燃油滤芯
+油水分离器
+发动机缸体
+发动机缸盖
+活塞
+活塞环
+活塞销
+连杆
+曲轴
+凸轮轴
+气门
+气门弹簧
+气门油封
+挺柱
+推杆
+摇臂
+正时皮带
+正时链条
+张紧轮
+飞轮
+离合器片
+压盘
+离合器总泵
+离合器分泵
+变速器壳体
+输入轴
+输出轴
+齿轮
+同步器
+拨叉
+传动轴
+万向节
+十字轴
+滑动花键
+主减速器
+差速器
+半轴
+轮毂
+轴承
+油封
+散热器
+水泵
+节温器
+风扇
+风扇离合器
+中冷器
+进气管
+进气歧管
+节气门
+空气滤清器
+涡轮增压器
+机械增压器
+排气歧管
+三元催化器
+消声器
+排气管
+氧传感器
+燃油箱
+燃油泵
+燃油滤清器
+喷油嘴
+高压油管
+共轨管
+火花塞
+点火线圈
+分电器
+起动机
+发电机
+电压调节器
+蓄电池
+电瓶夹
+线束
+保险丝盒
+继电器
+ECU
+传感器
+曲轴位置传感器
+凸轮轴位置传感器
+爆震传感器
+水温传感器
+油温传感器
+压力传感器
+流量传感器
+油门踏板
+制动踏板
+离合器踏板
+转向盘
+转向柱
+转向机
+转向助力泵
+转向拉杆
+转向节
+前桥
+后桥
+车架
+纵梁
+横梁
+悬架弹簧
+钢板弹簧
+螺旋弹簧
+扭杆弹簧
+减震器
+上控制臂
+下控制臂
+推力杆
+稳定杆
+平衡杆
+衬套
+球头
+制动盘
+制动鼓
+制动蹄
+制动钳
+刹车片
+制动总泵
+制动分泵
+ABS泵
+手刹拉线
+车门
+车窗
+玻璃升降器
+门锁
+门把手
+后视镜
+雨刮器
+雨刮电机
+座椅
+座椅滑轨
+安全带
+安全气囊
+方向盘气囊
+侧气囊
+仪表盘
+中控台
+空调压缩机
+冷凝器
+蒸发器
+膨胀阀
+鼓风机
+暖风水箱
+车身面板
+引擎盖
+后备箱盖
+保险杠
+防撞梁
+翼子板
+车顶
+立柱
+A柱
+B柱
+C柱
+门槛梁
+油箱盖
+加油口管
+拖车钩
+备胎架
+千斤顶
+轮胎
+内胎
+气门嘴
+轮毂螺栓
+轮毂螺母
+挡泥板
+底盘装甲
+排气管吊耳
+发动机支架
+变速箱支架
+副车架
+传动轴吊架
+消声器吊耳
+隔热板
+导流罩
+扰流板
+尾翼
+侧裙
+前唇
+进气格栅
+中网
+大灯总成
+尾灯总成
+雾灯
+转向灯
+倒车灯
+刹车灯
+示宽灯
+日间行车灯
+角灯
+牌照灯
+室内灯
+阅读灯
+后备箱灯
+迎宾灯
+氛围灯
+喇叭
+蜂鸣器
+天线
+导航仪
+显示屏
+音响主机
+扬声器
+低音炮
+功放
+USB接口
+OBD接口
+诊断接口
+倒车雷达
+倒车影像
+盲点监测传感器
+车道保持摄像头
+自适应巡航雷达
+自动泊车传感器
+激光雷达
+毫米波雷达
+超声波传感器
+雨量传感器
+光照传感器
+胎压监测传感器
+电池包
+电池模组
+电芯
+BMS
+逆变器
+DC-DC转换器
+车载充电机
+高压线束
+快充接口
+慢充接口
+驱动电机
+电机控制器
+旋转变压器
+减速器总成
+电子驻车电机
+电子手刹开关
+一键启动按钮
+无钥匙进入模块
+电动尾门撑杆
+电动座椅电机
+座椅加热垫
+座椅通风风扇
+方向盘加热丝
+HUD抬头显示
+全景天窗
+天窗电机
+天窗导轨
+遮阳帘
+儿童安全锁
+ISOFIX接口
+发动机护板
+底盘护板
+电池护板
+电机护板
+电控护板
+冷却液壶
+玻璃水壶
+机油尺
+机油滤芯
+空气滤芯
+空调滤芯
+燃油滤芯
+油水分离器
+干燥罐
+储气筒
+气制动阀
+继动阀
+快放阀
+手控阀
+脚制动阀
+挂车制动阀
+ABS电磁阀
+EBS阀
+空气悬挂气囊
+高度阀
+差速锁
+取力器
+PTO轴
+液压泵
+液压马达
+液压缸
+液压油缸
+活塞杆
+缸筒
+密封件
+O型圈
+Y型圈
+U型圈
+V型圈
+骨架油封
+组合垫圈
+石墨垫片
+橡胶垫片
+金属缠绕垫
+波纹管
+膨胀节
+软管
+硬管
+管接头
+法兰
+卡箍
+喉箍
+快速接头
+单向阀
+换向阀
+溢流阀
+减压阀
+顺序阀
+节流阀
+调速阀
+比例阀
+伺服阀
+插装阀
+叠加阀
+多路阀
+手动阀
+电磁阀
+气动阀
+气缸
+气爪
+真空发生器
+吸盘
+过滤器
+油雾器
+调压阀
+消声器
+气管
+铜管
+尼龙管
+聚氨酯管
+橡胶管
+钢丝管
+特氟龙管
+接头
+弯头
+三通
+四通
+变径
+堵头
+管帽
+活接
+由任
+球阀
+闸阀
+截止阀
+蝶阀
+止回阀
+旋塞阀
+柱塞阀
+隔膜阀
+疏水阀
+安全阀
+调节阀
+执行器
+定位器
+限位开关
+接近开关
+光电开关
+光纤传感器
+磁性开关
+行程开关
+微动开关
+按钮开关
+旋钮开关
+钥匙开关
+急停按钮
+指示灯
+信号灯
+报警器
+蜂鸣器
+电铃
+喇叭
+接触器
+断路器
+熔断器
+隔离开关
+负荷开关
+转换开关
+双电源开关
+浪涌保护器
+漏电保护器
+热继电器
+时间继电器
+中间继电器
+固态继电器
+变频器
+软启动器
+伺服驱动器
+步进驱动器
+PLC
+HMI
+触摸屏
+工控机
+嵌入式主板
+单片机
+开发板
+模块
+电源模块
+信号模块
+通信模块
+IO模块
+模拟量模块
+数字量模块
+高速计数模块
+脉冲输出模块
+运动控制卡
+数据采集卡
+网卡
+交换机
+路由器
+网关
+串口服务器
+光纤收发器
+调制解调器
+天线
+馈线
+避雷器
+接地棒
+电缆
+电线
+护套线
+屏蔽线
+双绞线
+同轴电缆
+光缆
+跳线
+配线架
+理线架
+线槽
+线管
+桥架
+扎带
+号码管
+端子
+接线端子
+冷压端子
+针形端子
+环形端子
+叉形端子
+管形端子
+绝缘端子
+非绝缘端子
+连接器
+插头
+插座
+航空插头
+重载连接器
+USB插头
+HDMI插头
+网线水晶头
+电话线水晶头
+DB9接头
+DB25接头
+DVI接头
+VGA接头
+DisplayPort接头
+Type-C接头
+Lightning接头
+Micro USB接头
+Mini USB接头
+SMA接头
+SMB接头
+MCX接头
+BNC接头
+N型接头
+TNC接头
+F型接头
+RCA接头
+XLR接头
+TRS接头
+TS接头
+Speakon接头
+Powercon接头
+IEC插座
+品字尾
+梅花尾
+八字尾
+电脑尾
+香蕉插头
+鳄鱼夹
+测试钩
+探针
+测试笔
+万用表
+示波器
+信号发生器
+频谱仪
+逻辑分析仪
+功率计
+电桥
+钳形表
+兆欧表
+接地电阻测试仪
+耐压测试仪
+漏电流测试仪
+安规测试仪
+老化架
+烘箱
+恒温槽
+高低温试验箱
+盐雾试验箱
+振动台
+冲击台
+跌落试验机
+拉力试验机
+压力试验机
+扭转试验机
+疲劳试验机
+硬度计
+粗糙度仪
+轮廓仪
+三坐标测量机
+影像测量仪
+激光扫描仪
+测厚仪
+涂层测厚仪
+镀层测厚仪
+光泽度仪
+色差仪
+白度仪
+透明度仪
+雾度仪
+折射仪
+密度计
+粘度计
+流变仪
+熔点仪
+沸点仪
+闪点仪
+燃点仪
+水分测定仪
+灰分测定仪
+挥发分测定仪
+固定碳测定仪
+发热量测定仪
+元素分析仪
+色谱仪
+质谱仪
+光谱仪
+能谱仪
+显微镜
+放大镜
+望远镜
+水平仪
+经纬仪
+全站仪
+GPS接收机
+水准仪
+测距仪
+测斜仪
+收敛计
+多点位移计
+钢筋计
+土压力盒
+孔隙水压力计
+渗压计
+量水堰计
+倾角仪
+加速度计
+速度传感器
+位移传感器
+液位传感器
+流量传感器
+压力变送器
+温度变送器
+湿度变送器
+气体检测仪
+粉尘检测仪
+噪声计
+照度计
+风速仪
+风向标
+雨量计
+蒸发皿
+地温表
+百叶箱
+气象站
+水文站
+水质分析仪
+COD测定仪
+BOD测定仪
+氨氮测定仪
+总磷测定仪
+总氮测定仪
+重金属检测仪
+余氯测定仪
+pH计
+电导率仪
+溶解氧仪
+浊度仪
+污泥浓度计
+在线监测仪
+采样器
+留样器
+消解器
+蒸馏器
+萃取器
+浓缩仪
+旋转蒸发仪
+冷冻干燥机
+喷雾干燥机
+气流粉碎机
+球磨机
+砂磨机
+胶体磨
+均质机
+乳化机
+分散机
+搅拌机
+混合机
+捏合机
+密炼机
+开炼机
+挤出机
+注塑机
+吹塑机
+吸塑机
+压延机
+涂布机
+复合机
+分切机
+复卷机
+模切机
+烫金机
+丝印机
+移印机
+喷码机
+贴标机
+灌装机
+封口机
+封箱机
+打包机
+收缩机
+枕式包装机
+立式包装机
+给袋式包装机
+真空包装机
+气调包装机
+拉伸膜包装机
+缠绕机
+码垛机
+拆垛机
+AGV小车
+RGV小车
+穿梭车
+堆垛机
+输送机
+皮带机
+滚筒机
+链板机
+网带机
+提升机
+斗式提升机
+螺旋输送机
+刮板输送机
+埋刮板输送机
+振动输送机
+气力输送系统
+给料机
+振动给料机
+电磁给料机
+圆盘给料机
+皮带给料机
+筛分机
+振动筛
+滚筒筛
+直线筛
+圆振筛
+概率筛
+细沙回收机
+洗砂机
+脱水筛
+破碎机
+颚式破碎机
+圆锥破碎机
+反击式破碎机
+锤式破碎机
+辊式破碎机
+制砂机
+磨粉机
+雷蒙磨
+球磨机
+立磨
+超细磨
+微粉磨
+选粉机
+除尘器
+布袋除尘器
+旋风除尘器
+静电除尘器
+湿式除尘器
+脱硫塔
+脱硝塔
+洗涤塔
+喷淋塔
+活性炭吸附箱
+催化燃烧设备
+RTO
+RCO
+UV光解设备
+等离子净化设备
+油烟净化器
+污水处理设备
+格栅
+沉砂池
+沉淀池
+气浮机
+曝气机
+鼓风机
+罗茨风机
+离心风机
+轴流风机
+混流风机
+斜流风机
+管道风机
+柜式风机
+箱式风机
+屋顶风机
+防爆风机
+防腐风机
+高温风机
+锅炉
+燃气锅炉
+燃煤锅炉
+生物质锅炉
+电锅炉
+余热锅炉
+蒸汽锅炉
+热水锅炉
+导热油炉
+热风炉
+焚烧炉
+熔炼炉
+加热炉
+热处理炉
+退火炉
+淬火炉
+回火炉
+正火炉
+渗碳炉
+氮化炉
+烧结炉
+马弗炉
+箱式炉
+井式炉
+台车炉
+推杆炉
+网带炉
+链板炉
+转底炉
+感应炉
+电弧炉
+中频炉
+高频炉
+真空炉
+气氛炉
+实验炉
+窑炉
+隧道窑
+回转窑
+梭式窑
+辊道窑
+推板窑
+钟罩窑
+电炉
+电阻炉
+硅碳棒
+硅钼棒
+电热丝
+加热管
+加热圈
+加热板
+加热棒
+热电偶
+热电阻
+补偿导线
+补偿电缆
+温控器
+温度控制器
+PID调节器
+记录仪
+无纸记录仪
+有纸记录仪
+数据记录仪
+黑匣子
+飞行记录器
+驾驶舱语音记录器
+快速存取记录器
+卫星通信终端
+惯性导航系统
+陀螺仪
+加速度计
+磁力计
+气压高度计
+无线电高度表
+空速管
+迎角传感器
+侧滑角传感器
+襟翼位置传感器
+缝翼位置传感器
+起落架位置传感器
+刹车温度传感器
+轮胎压力传感器
+燃油油量传感器
+液压油量传感器
+氧气压力传感器
+座舱压力传感器
+内外压差传感器
+烟雾探测器
+火警探测器
+过热探测器
+火焰探测器
+应急定位发射机
+应答机
+测距仪
+自动定向仪
+甚高频全向信标
+仪表着陆系统
+微波着陆系统
+全球定位系统
+增强型近地警告系统
+交通防撞系统
+气象雷达
+地形雷达
+风切变探测系统
+平视显示器
+下视显示器
+多功能显示器
+中央维护计算机
+飞行管理计算机
+自动驾驶仪
+自动油门
+电传操纵系统
+液压作动筒
+伺服作动器
+舵机
+副翼
+升降舵
+方向舵
+襟翼
+缝翼
+扰流板
+减速板
+安定面
+配平调整片
+反推装置
+thrust reverser
+发动机短舱
+进气道
+风扇叶片
+压气机叶片
+涡轮叶片
+导向叶片
+燃烧室
+火焰筒
+喷嘴
+涡扇发动机
+涡喷发动机
+涡轴发动机
+涡桨发动机
+冲压发动机
+火箭发动机
+固体火箭发动机
+液体火箭发动机
+混合火箭发动机
+燃料贮箱
+氧化剂贮箱
+增压气瓶
+阀门组
+管路系统
+喷注器
+点火器
+推力矢量控制系统
+栅格舵
+整流罩
+分离机构
+太阳翼
+帆板
+蓄电池组
+燃料电池
+推进剂管理装置
+姿控发动机
+轨道控制发动机
+远地点发动机
+变轨发动机
+制动发动机
+着陆发动机
+上升发动机
+逃逸发动机
+返回舱
+轨道舱
+推进舱
+服务舱
+登月舱
+火星车
+月球车
+探测器
+卫星平台
+有效载荷
+相机
+光谱仪
+雷达载荷
+通信载荷
+导航载荷
+遥感载荷
+科学仪器
+机械臂
+抓取机构
+对接机构
+展开机构
+锁定机构
+释放机构
+分离螺母
+火工品
+爆炸螺栓
+切割索
+形状记忆合金驱动器
+压电驱动器
+磁致伸缩驱动器
+音圈电机
+直线电机
+力矩电机
+空心杯电机
+无刷电机
+有刷电机
+步进电机
+伺服电机
+直流电机
+交流电机
+异步电机
+同步电机
+永磁电机
+感应电机
+开关磁阻电机
+磁悬浮轴承
+空气轴承
+液体静压轴承
+滚动轴承
+滑动轴承
+关节轴承
+转盘轴承
+交叉滚子轴承
+谐波减速器
+RV减速器
+行星减速器
+摆线针轮减速器
+蜗轮蜗杆减速器
+齿轮减速器
+无级变速器
+液力变矩器
+液力耦合器
+电磁离合器
+磁粉离合器
+牙嵌离合器
+摩擦离合器
+超越离合器
+安全离合器
+联轴器
+刚性联轴器
+挠性联轴器
+弹性联轴器
+万向联轴器
+膜片联轴器
+梅花联轴器
+星形联轴器
+轮胎联轴器
+链条联轴器
+齿式联轴器
+滑块联轴器
+套筒联轴器
+凸缘联轴器
+胀套
+锁紧盘
+紧定套
+退卸套
+front
+rear
+left front
+right front
+left rear
+right_rear
+front_row
+rear_row
+roof
+top
+bottom
+upper
+lower
+inner
+outer
+left
+right
+hinge
+rear_door
+front_door
+cewei
+Adapter sleeve
+withdrawal sleeve
+bearing housing
+pillow block
+flange unit
+take-up unit
+cartridge unit
+split plummer block
+solid plummer block
+self-aligning ball bearing
+deep groove ball bearing
+angular contact ball bearing
+self-aligning roller bearing
+spherical roller bearing
+cylindrical roller bearing
+tapered roller bearing
+needle roller bearing
+thrust ball bearing
+thrust roller bearing
+combined bearing
+linear bearing
+linear guide
+ball screw
+lead screw
+timing belt
+V-belt
+flat belt
+round belt
+synchronous belt
+poly-V belt
+chain
+roller chain
+silent chain
+leaf chain
+conveyor chain
+drag chain
+cable carrier
+hose reel
+spring
+compression spring
+extension spring
+torsion spring
+constant force spring
+gas spring
+air spring
+rubber spring
+disc spring
+wave spring
+Belleville washer
+snap ring
+retaining ring
+circlip
+E-ring
+C-ring
+shaft collar
+set screw
+grub screw
+cap screw
+hex bolt
+socket head cap screw
+button head cap screw
+flat head cap screw
+pan head screw
+truss head screw
+oval head screw
+hex nut
+lock nut
+nylon insert lock nut
+all-metal lock nut
+prevailing torque lock nut
+slotted nut
+castle nut
+wing nut
+thumb nut
+knurled nut
+cap nut
+acorn nut
+flange nut
+T-nut
+tee nut
+hammer drive screw
+self-tapping screw
+self-drilling screw
+drywall screw
+wood screw
+machine screw
+lag screw
+carriage bolt
+eye bolt
+U-bolt
+J-bolt
+anchor bolt
+wedge anchor
+sleeve anchor
+drop-in anchor
+chemical anchor
+expansion anchor
+toggle bolt
+molly bolt
+rivet
+blind rivet
+pop rivet
+structural rivet
+drive rivet
+flush rivet
+countersunk rivet
+dome head rivet
+large flange rivet
+multi-grip rivet
+closed end rivet
+peel type rivet
+locking rivet
+pin
+dowel pin
+taper pin
+clevis pin
+cotter pin
+spring pin
+roll pin
+grooved pin
+knurled pin
+shoulder screw
+stripper bolt
+ejector pin
+core pin
+leader pin
+bushing
+sleeve bushing
+flanged bushing
+thrust washer
+wear plate
+slide plate
+shim
+spacer
+standoff
+stud
+threaded rod
+all-thread
+rebar
+wire rope
+cable
+strand
+sling
+shackle
+turnbuckle
+thimble
+ferrule
+swage
+crimp
+terminal lug
+splice
+connector
+coupling
+union
+elbow
+tee
+cross
+reducer
+bushing
+plug
+cap
+nipple
+close nipple
+hex nipple
+street elbow
+street tee
+flange
+weld neck flange
+slip-on flange
+blind flange
+thread flange
+lap joint flange
+socket weld flange
+orifice flange
+reducing flange
+expander flange
+gasket
+spiral wound gasket
+ring type joint gasket
+sheet gasket
+cork gasket
+rubber gasket
+PTFE gasket
+graphite gasket
+metal jacketed gasket
+camprofile gasket
+kammprofile gasket
+double jacketed gasket
+o-ring
+x-ring
+quad ring
+backup ring
+wiper seal
+rod seal
+piston seal
+rotary seal
+mechanical seal
+lip seal
+oil seal
+grease seal
+dust seal
+excluder seal
+labyrinth seal
+gland packing
+braided packing
+molded packing
+die-formed packing
+ring packing
+valve packing
+pump packing
+compressor packing
+agitator packing
+stuffing box
+lantern ring
+gland follower
+gland flange
+bolt
+stud
+nut
+washer
+spring washer
+lock washer
+fender washer
+finishing washer
+square washer
+beveled washer
+curved washer
+tooth lock washer
+internal tooth lock washer
+external tooth lock washer
+split lock washer
+wave washer
+Belleville washer
+conical washer
+spherical washer
+shoulder washer
+insulating washer
+sealing washer
+bonding washer
+O-ring washer
+D-ring washer
+E-ring
+C-ring
+clip
+clamp
+hose clamp
+worm gear clamp
+spring clamp
+constant tension clamp
+T-bolt clamp
+V-band clamp
+ear clamp
+stepless clamp
+pinch clamp
+cable tie
+zip tie
+releasable cable tie
+marker tie
+mountable tie
+stainless steel tie
+heavy duty tie
+ladder tie
+tear-off tie
+identification tie
+flag tie
+bead tie
+push mount tie
+screw mount tie
+adhesive mount tie
+base tie
+two-piece tie
+barbed tie
+arrowhead tie
+tree tie
+garden tie
+balloon tie
+twist tie
+pipe tie
+bundle tie
+harness tie
+loom tie
+wire tie
+cord tie
+rope tie
+string tie
+band
+strap
+webbing
+belt
+buckle
+fastener
+hook
+loop
+snap
+button
+zipper
+velcro
+adhesive
+glue
+epoxy
+silicone
+sealant
+caulk
+putty
+mastic
+tape
+duct tape
+electrical tape
+masking tape
+painter's tape
+packaging tape
+filament tape
+foil tape
+Kapton tape
+Teflon tape
+thread seal tape
+pipe tape
+PTFE tape
+anaerobic sealant
+thread locker
+retaining compound
+gasket maker
+form-in-place gasket
+liquid gasket
+RTV silicone
+one-part silicone
+two-part silicone
+urethane
+polysulfide
+butyl
+acrylic
+latex
+solvent-based
+water-based
+hot melt
+pressure sensitive
+contact adhesive
+structural adhesive
+epoxy adhesive
+cyanoacrylate
+super glue
+instant glue
+UV cure adhesive
+light cure adhesive
+heat cure adhesive
+room temperature cure
+moisture cure
+catalyst
+hardener
+activator
+primer
+cleaner
+degreaser
+solvent
+thinner
+reducer
+diluent
+flux
+solder
+brazing alloy
+welding rod
+welding wire
+electrode
+filler metal
+shielding gas
+flux core
+submerged arc flux
+SAW flux
+FCAW wire
+GMAW wire
+MIG wire
+TIG wire
+stick electrode
+SMAW electrode
+GTAW rod
+PAW rod
+OFW rod
+oxy-fuel rod
+brazing rod
+soldering wire
+solder paste
+solder flux
+no-clean flux
+rosin flux
+water soluble flux
+organic flux
+inorganic flux
+acid flux
+alkaline flux
+neutral flux
+anti-spatter
+spatter repellent
+welding blanket
+welding curtain
+welding helmet
+welding glove
+welding jacket
+welding apron
+welding boot
+respirator
+fume extractor
+ventilation fan
+air purifier
+dust collector
+mist collector
+oil separator
+coalescer
+filter element
+filter cartridge
+filter bag
+filter sock
+filter screen
+filter mesh
+filter cloth
+filter paper
+filter felt
+filter foam
+filter sponge
+filter media
+membrane
+microfiltration
+ultrafiltration
+nanofiltration
+reverse osmosis
+electrodialysis
+ion exchange
+activated carbon
+zeolite
+silica gel
+molecular sieve
+desiccant
+drying agent
+absorbent
+adsorbent
+catalyst
+catalyst support
+catalyst carrier
+catalyst bed
+reactor vessel
+reaction kettle
+mixing tank
+storage tank
+silo
+hopper
+bin
+bunker
+drum
+barrel
+keg
+canister
+cylinder
+bottle
+jar
+jug
+carboy
+tote
+IBC
+intermediate bulk container
+pallet
+skid
+crate
+box
+carton
+case
+bag
+sack
+pouch
+wrapper
+film
+shrink wrap
+stretch wrap
+bubble wrap
+foam wrap
+paper wrap
+foil wrap
+plastic wrap
+cling film
+保鲜膜
+aluminum foil
+tin foil
+copper foil
+gold foil
+silver foil
+mylar
+polyester film
+polyimide film
+PTFE film
+PVC film
+PE film
+PP film
+PS film
+PET film
+BOPP film
+CPP film
+LDPE film
+LLDPE film
+HDPE film
+MDPE film
+VLDPE film
+ULDPE film
+EVA film
+EVOH film
+PVDC film
+PA film
+Nylon film
+PC film
+PMMA film
+ABS film
+SAN film
+ASA film
+MBS film
+ACR film
+CPE film
+ACM film
+FKM film
+EPDM film
+NBR film
+CR film
+IIR film
+BIIR film
+CIIR film
+VMQ film
+PVMQ film
+FVMQ film
+FFPM film
+FFKM film
+PTFE lining
+rubber lining
+glass lining
+enamel lining
+ceramic lining
+brick lining
+refractory lining
+insulation lining
+fireproof lining
+soundproof lining
+vibration damping lining
+anti-corrosion coating
+anti-rust coating
+primer
+topcoat
+finish coat
+clear coat
+base coat
+sealer
+varnish
+lacquer
+paint
+enamel
+powder coating
+electroplating
+galvanizing
+anodizing
+passivation
+phosphating
+chromating
+nitriding
+carburizing
+carbonitriding
+nitrocarburizing
+boriding
+aluminizing
+chromizing
+siliconizing
+sherardizing
+mechanical plating
+dip coating
+spray coating
+brush coating
+roll coating
+flow coating
+spin coating
+dip spinning
+curtain coating
+knife coating
+doctor blade coating
+slot die coating
+slide coating
+extrusion coating
+lamination
+co-extrusion
+co-lamination
+metallization
+vacuum deposition
+sputtering
+evaporation
+CVD
+PVD
+ALD
+MOCVD
+MBE
+ion implantation
+diffusion
+oxidation
+epitaxy
+lithography
+etching
+cleaning
+polishing
+grinding
+lapping
+honing
+superfinishing
+buffing
+tumbling
+blasting
+shot peening
+sandblasting
+grit blasting
+bead blasting
+vapor blasting
+wet blasting
+dry blasting
+abrasive blasting
+ultrasonic cleaning
+plasma cleaning
+laser cleaning
+cryogenic cleaning
+CO2 cleaning
+steam cleaning
+pressure washing
+chemical cleaning
+pickling
+passivation
+electropolishing
+electrocleaning
+degreasing
+de-oiling
+de-scaling
+de-rusting
+de-burring
+edge breaking
+chamfering
+rounding
+filleting
+corner radiusing
+deburring tool
+chamfer mill
+edge breaker
+file
+rasp
+scraper
+chisel
+punch
+drift
+center punch
+prick punch
+pin punch
+drive punch
+bolster punch
+hollow punch
+leather punch
+hole punch
+paper punch
+ticket punch
+confetti punch
+shape punch
+decorative punch
+craft punch
+scrapbook punch
+card making punch
+embossing punch
+stencil punch
+border punch
+corner punch
+circle punch
+square punch
+triangle punch
+star punch
+heart punch
+flower punch
+leaf punch
+butterfly punch
+animal punch
+letter punch
+number punch
+symbol punch
+icon punch
+logo punch
+custom punch
+industrial punch
+hydraulic punch
+pneumatic punch
+electric punch
+manual punch
+hand punch
+bench punch
+floor punch
+turret punch
+CNC punch
+laser punch
+plasma punch
+waterjet punch
+die punch
+mold punch
+stamping punch
+forming punch
+drawing punch
+bending punch
+coining punch
+embossing punch
+piercing punch
+blanking punch
+trimming punch
+notching punch
+lancing punch
+slitting punch
+cutoff punch
+parting punch
+shear punch
+guillotine shear
+squaring shear
+alligator shear
+throatless shear
+bench shear
+lever shear
+foot shear
+power shear
+hydraulic shear
+pneumatic shear
+electric shear
+manual shear
+hand shear
+tin snips
+aviation snips
+utility snips
+compound snips
+offset snips
+straight snips
+left cut snips
+right cut snips
+curve cut snips
+circle cutter
+hole saw
+core drill
+annular cutter
+broach
+keyway broach
+spline broach
+square broach
+hex broach
+round broach
+surface broach
+internal broach
+external broach
+push broach
+pull broach
+stationary broach
+rotating broach
+continuous broach
+vertical broach
+horizontal broach
+pot broach
+surface broaching
+form broaching
+profile broaching
+size broaching
+semi-finish broaching
+finish broaching
+sizing broach
+finishing broach
+roughing broach
+semi-finishing broach
+combination broach
+progressive broach
+stack broach
+slab broach
+rotary broach
+whirling broach
+trepanning tool
+boring bar
+boring head
+boring tool
+turning tool
+facing tool
+parting tool
+grooving tool
+threading tool
+form tool
+profiling tool
+contouring tool
+copying tool
+tracing tool
+duplicating tool
+milling cutter
+end mill
+face mill
+shell mill
+slab mill
+side mill
+angle cutter
+T-slot cutter
+dovetail cutter
+Woodruff cutter
+keyseat cutter
+slotting cutter
+slitting saw
+fly cutter
+boring cutter
+reamer
+counterbore
+countersink
+spotface
+drill bit
+twist drill
+spade bit
+Forstner bit
+auger bit
+brad point bit
+masonry bit
+concrete bit
+tile bit
+glass bit
+metal bit
+wood bit
+plastic bit
+composite bit
+carbide bit
+HSS bit
+cobalt bit
+titanium bit
+diamond bit
+PCD bit
+CBN bit
+cermet bit
+coated bit
+uncoated bit
+solid bit
+indexable bit
+insert bit
+modular bit
+quick change bit
+chuck
+collet
+vise
+clamp
+fixture
+jig
+tool holder
+arbor
+mandrel
+spindle
+quill
+ram
+table
+saddle
+knee
+column
+base
+bed
+way
+slide
+guideway
+linear motion system
+ball screw assembly
+lead screw assembly
+rack and pinion
+belt drive
+chain drive
+gear drive
+direct drive
+motorized spindle
+built-in motor spindle
+high speed spindle
+precision spindle
+live center
+dead center
+steady rest
+follow rest
+faceplate
+chuck jaw
+soft jaw
+hard jaw
+master jaw
+scroll chuck
+independent chuck
+combination chuck
+magnetic chuck
+vacuum chuck
+pneumatic chuck
+hydraulic chuck
+power chuck
+automatic chuck
+quick change chuck
+lathe chuck
+milling chuck
+grinding chuck
+drilling chuck
+tapping chuck
+reaming chuck
+boring chuck
+turning chuck
+facing chuck
+grooving chuck
+threading chuck
+form turning chuck
+copy turning chuck
+NC turning chuck
+CNC turning chuck
+automatic lathe chuck
+screw machine chuck
+bar feeder
+bar puller
+parts catcher
+chip conveyor
+coolant system
+lubrication system
+filtration system
+mist collector
+oil skimmer
+tramp oil separator
+centrifuge
+decanter
+clarifier
+separator
+purifier
+filter press
+belt filter
+disk filter
+drum filter
+screen filter
+basket filter
+bag filter
+cartridge filter
+candle filter
+leaf filter
+plate filter
+frame filter
+membrane filter
+crossflow filter
+dead-end filter
+depth filter
+surface filter
+absolute filter
+nominal filter
+micron rating
+beta ratio
+dirt holding capacity
+flow rate
+pressure drop
+burst pressure
+collapse pressure
+fatigue life
+cycle life
+service life
+maintenance interval
+replacement schedule
+spare parts
+wear parts
+consumables
+accessories
+attachments
+options
+upgrades
+retrofits
+modifications
+conversions
+rebuilds
+overhauls
+repairs
+maintenance
+inspection
+testing
+calibration
+certification
+validation
+qualification
+verification
+commissioning
+start-up
+shutdown
+turnaround
+outage
+outage planning
+outage management
+outage execution
+outage reporting
+outage analysis
+outage optimization
+outage scheduling
+outage coordination
+outage communication
+outage safety
+outage quality
+outage cost
+outage time
+outage duration
+outage scope
+outage work list
+outage procedure
+outage checklist
+outage manual
+outage guide
+outage standard
+outage specification
+outage requirement
+outage criteria
+outage acceptance
+outage sign-off
+outage close-out
+outage review
+outage lesson learned
+outage best practice
+outage improvement
+outage innovation
+outage technology
+outage tool
+outage equipment
+outage material
+outage resource
+outage personnel
+outage team
+outage contractor
+outage vendor
+outage supplier
+outage partner
+outage stakeholder
+outage customer
+outage user
+outage operator
+outage technician
+outage engineer
+outage manager
+outage director
+outage executive
+outage leader
+outage champion
+outage owner
+outage sponsor
+outage coordinator
+outage scheduler
+outage planner
+outage controller
+outage supervisor
+outage inspector
+outage auditor
+outage assessor
+outage evaluator
+outage analyst
+outage specialist
+outage expert
+outage consultant
+outage advisor
+outage trainer
+outage educator
+outage researcher
+outage developer
+outage designer
+outage architect
+outage integrator
+outage implementer
+outage deployer
+outage supporter
+outage maintainer
+outage servicer
+outage provider
+outage deliverer
+outage enabler
+outage facilitator
+outage accelerator
+outage optimizer
+outage maximizer
+outage minimizer
+outage reducer
+outage eliminator
+outage preventer
+outage mitigator
+outage resolver
+outage fixer
+outage healer
+outage restorer
+outage recoverer
+outage retriever
+outage recycler
+outage reuser
+outage refurisher
+outage remanufacturer
+outage rebuilder
+outage upgrader
+outage modernizer
+outage updater
+outage patcher
+outage fixer
+outage debugger
+outage troubleshooter
+outage problem solver
+outage root cause analyst
+outage failure analyst
+outage reliability engineer
+outage availability engineer
+outage maintainability engineer
+outage safety engineer
+outage quality engineer
+outage performance engineer
+outage efficiency engineer
+outage productivity engineer
+outage cost engineer
+outage value engineer
+outage risk engineer
+outage compliance engineer
+outage regulatory engineer
+outage environmental engineer
+outage sustainability engineer
+outage energy engineer
+outage carbon engineer
+outage climate engineer
+outage green engineer
+outage clean engineer
+outage eco engineer
+outage circular engineer
+outage zero waste engineer
+outage net zero engineer
+outage carbon neutral engineer
+outage climate positive engineer
+outage nature positive engineer
+outage biodiversity engineer
+outage ecosystem engineer
+outage planetary engineer
+outage space engineer
+outage ocean engineer
+outage polar engineer
+outage desert engineer
+outage mountain engineer
+outage forest engineer
+outage river engineer
+outage lake engineer
+outage wetland engineer
+outage coastal engineer
+outage marine engineer
+outage offshore engineer
+outage subsea engineer
+outage underwater engineer
+outage diving engineer
+outage remotely operated vehicle engineer
+outage autonomous underwater vehicle engineer
+outage unmanned aerial vehicle engineer
+outage drone engineer
+outage robot engineer
+outage automation engineer
+outage control engineer
+outage instrumentation engineer
+outage electrical engineer
+outage electronic engineer
+outage computer engineer
+outage software engineer
+outage data engineer
+outage AI engineer
+outage machine learning engineer
+outage deep learning engineer
+outage neural network engineer
+outage algorithm engineer
+outage model engineer
+outage simulation engineer
+outage digital twin engineer
+outage virtual reality engineer
+outage augmented reality engineer
+outage mixed reality engineer
+outage extended reality engineer
+outage metaverse engineer
+outage blockchain engineer
+outage cryptocurrency engineer
+outage fintech engineer
+outage biotech engineer
+outage medtech engineer
+outage healthtech engineer
+outage edtech engineer
+outage agritech engineer
+outage foodtech engineer
+outage cleantech engineer
+outage greentech engineer
+outage climatetech engineer
+outage energytech engineer
+outage mobility engineer
+outage transport engineer
+outage logistics engineer
+outage supply chain engineer
+outage manufacturing engineer
+outage industrial engineer
+outage systems engineer
+outage integration engineer
+outage test engineer
+outage validation engineer
+outage verification engineer
+outage quality assurance engineer
+outage quality control engineer
+outage inspection engineer
+outage metrology engineer
+outage calibration engineer
+outage standards engineer
+outage certification engineer
+outage accreditation engineer
+outage licensing engineer
+outage permitting engineer
+outage regulatory affairs engineer
+outage intellectual property engineer
+outage patent engineer
+outage trademark engineer
+outage copyright engineer
+outage trade secret engineer
+outage legal engineer
+outage compliance officer
+outage ethics officer
+outage privacy officer
+outage security officer
+outage risk officer
+outage audit officer
+outage governance officer
+outage sustainability officer
+outage diversity officer
+outage inclusion officer
+outage equity officer
+outage belonging officer
+outage culture officer
+outage engagement officer
+outage experience officer
+outage satisfaction officer
+outage loyalty officer
+outage retention officer
+outage acquisition officer
+outage growth officer
+outage revenue officer
+outage profit officer
+outage value officer
+outage impact officer
+outage outcome officer
+outage output officer
+outage throughput officer
+outage efficiency officer
+outage productivity officer
+outage performance officer
+outage excellence officer
+outage innovation officer
+outage transformation officer
+outage change officer
+outage agility officer
+outage resilience officer
+outage adaptability officer
+outage flexibility officer
+outage scalability officer
+outage sustainability officer
+outage continuity officer
+outage recovery officer
+outage business continuity officer
+outage disaster recovery officer
+outage crisis management officer
+outage emergency response officer
+outage incident management officer
+outage problem management officer
+outage change management officer
+outage configuration management officer
+outage release management officer
+outage deployment management officer
+outage service management officer
+outage IT service management officer
+outage IT operations officer
+outage IT infrastructure officer
+outage IT security officer
+outage IT compliance officer
+outage IT governance officer
+outage IT risk officer
+outage IT audit officer
+outage IT strategy officer
+outage IT architecture officer
+outage IT design officer
+outage IT development officer
+outage IT testing officer
+outage IT implementation officer
+outage IT support officer
+outage IT maintenance officer
+outage IT upgrade officer
+outage IT migration officer
+outage IT integration officer
+outage IT consolidation officer
+outage IT optimization officer
+outage IT transformation officer
+outage IT innovation officer
+outage IT digitalization officer
+outage IT automation officer
+outage IT AI officer
+outage IT data officer
+outage IT cloud officer
+outage IT edge officer
+outage IoT officer
+outage IIoT officer
+outage Industry 4.0 officer
+outage Smart Factory officer
+outage Digital Factory officer
+outage Future Factory officer
+outage Factory of the Future officer
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
