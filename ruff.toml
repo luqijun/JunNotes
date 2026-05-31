@@ -1,0 +1,16 @@
+
+line-length = 120
+
+[format]
+quote-style = "preserve"
+skip-magic-trailing-comma = false
+docstring-code-format = true
+
+[lint.isort]
+
+
+[lint.pydocstyle]
+convention = "google"
+
+[lint.pyflakes]
+# allowed-unused-imports = ["dtastest.debug"]

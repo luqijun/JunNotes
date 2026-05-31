@@ -1,0 +1,41 @@
+{
+    // "autopep8.args": [
+    //     "--max-line-length=150"
+    // ],
+    // "isort.args": [
+    //     "--profile",
+    //     "black",
+    //     "--line-length",
+    //     "150"
+    // ],
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "python.terminal.useEnvFile": true,
+    "editor.formatOnSave": true,
+    "[python]": {
+        "editor.codeActionsOnSave": {
+            "source.fixAll": "never",
+            "source.organizeImports": "never",
+            "source.unusedImports": "never",
+            "source.fixAll.ruff": "explicit",
+            "source.organizeImports.ruff": "explicit",
+        },
+        "editor.defaultFormatter": "charliermarsh.ruff"
+    },
+    "notebook.formatOnSave.enabled": true,
+    "notebook.codeActionsOnSave": {
+        "notebook.source.fixAll.ruff": "explicit",
+        "notebook.source.organizeImports.ruff": "explicit"
+    },
+    "editor.rulers": [
+        120
+    ],
+    // ruff配置
+    "ruff.enable": true,
+    "ruff.lineLength": 120,
+    "ruff.organizeImports": true,
+    "ruff.importStrategy": "fromEnvironment",
+    "ruff.interpreter": [
+        "/home/numbat/miniconda3/envs/py311/bin/python"
+    ]
+}
