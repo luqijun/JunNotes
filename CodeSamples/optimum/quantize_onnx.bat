@@ -1,0 +1,3 @@
+optimum-cli onnxruntime quantize --onnx_model ./models/BAAI/bge-base-zh-v1___5/onnx_O1 --avx512 --per_channel -o ./models/BAAI/bge-base-zh-v1___5/onnx_O1_int8_per_channel
+@REM optimum-cli onnxruntime quantize --onnx_model ./models/BAAI/bge-base-zh-v1___5/onnx_O1 --avx512 -o ./models/BAAI/bge-base-zh-v1___5/onnx_O1_int8
+@REM optimum-cli onnxruntime quantize --onnx_model ./models/BAAI/bge-base-zh-v1___5/onnx --avx512 -o ./models/BAAI/bge-base-zh-v1___5/onnx_int8
